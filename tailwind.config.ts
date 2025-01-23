@@ -9,8 +9,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        purple: "#6A0DAD",
+        deepBlue: "#002366",
+        crimson: "#990000",
+        gold: "#FFD700",
+        ivory: "#FFFFF0",
+        charcoal: "#333333",
+        silver: "#C0C0C0",
       },
     },
   },
